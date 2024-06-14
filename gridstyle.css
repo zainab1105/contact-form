@@ -1,22 +1,26 @@
+div.b-color{
+    background-color: midnightblue;
+    text-align: center;
+    font-size: xx-large;
+    color: beige;
+    height: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 100px;
+    align-items: center;
+    font-style: italic;
+        }
+        div.first {
+            opacity: 30;
+          }
 body{
     margin:0;
     background-color: #D8AE7E;
     font-family: Arial, Helvetica, sans-serif;
 }
-.h1{
-    text-decoration: underline;
-    font-size: 40px;
-    font-weight: 600;
-    text-transform: capitalize;
-    text-align: center;
-    background-color: burlywood;
-    color: darkgoldenrod;
-    margin: auto;
-    padding-top: 100px;
-}
+
 .grid-container{
     display: grid;
-    grid-template-columns: 2000px 700px 700px;
+    grid-template-columns: 2795px 819px 784px;
     grid-template-rows: auto auto auto;
     gap: 10px;
     padding: 200px;
