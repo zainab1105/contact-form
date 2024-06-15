@@ -8,10 +8,24 @@ div.b-color{
     margin-top: 100px;
     align-items: center;
     font-style: italic;
-        }
-        div.first {
+}
+div.first {
+    opacity: 30;
+}
+div.color{
+            background-color: burlywood ;
+            text-align: center;
+            font-size: xx-large;
+            color: beige;
+            height: 109px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            margin-top: 100px;
+            align-items: center;
+            font-style: italic;
+}
+div.second {
             opacity: 30;
-          }
+}
 body{
     margin:0;
     background-color: #D8AE7E;
@@ -31,8 +45,8 @@ body{
     overflow: hidden;
 }
 .grid-item img {
-    width: 100%;
-    height: 100%;
+    width: 113%;
+    height: 99%;
     object-fit: cover;
 }
 
